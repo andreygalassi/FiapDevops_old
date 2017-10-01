@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SmartRH
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: usuario
+Implementation-Vendor-Id: br.com.fiap.28scj
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/SmartRH/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
